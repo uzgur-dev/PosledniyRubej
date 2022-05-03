@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=CF18F7&center=true&width=1200&height=150&lines=I'm+Web+Developer;And+Targetologist)](https://git.io/typing-svg)
 
+<img align="center" src="https://lolz.guru/proxy.php?image=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2FTIj8cbzWYKnE9ul3ab%2Fgiphy.gif&hash=4ddf14db9f525197f6b8100107886990" alt="Uzgur" min-height="200" width="1200" />
+
 - 🔭 I’m currently working on [OPENSHOP.UZ](openshop.uz)
 
 - 👨‍💻 All of my projects are available at [myozzy.me](myozzy.me)
