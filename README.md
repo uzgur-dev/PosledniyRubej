@@ -43,3 +43,4 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/ru/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="vuejs" width="40" height="40"/> </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PosledniyRubej&label=Profile%20views&color=0e75b6&style=flat" alt="Uzgur" /> </p>
