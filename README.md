@@ -1,4 +1,4 @@
-<img align="center" src="https://myozzy.me/headerphoto.png" alt="Uzgur" height="1200" width="200" />
+<img align="center" src="https://myozzy.me/headerphoto.png" alt="Uzgur" height="200" width="1200" />
 <h3 align="center">Web Developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=CF18F7&center=true&width=1200&height=150&lines=I'm+Web+Developer;And+Targetologist)](https://git.io/typing-svg)
