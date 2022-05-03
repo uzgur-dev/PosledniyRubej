@@ -9,16 +9,16 @@
 
 - 📫 How to reach me **kanalrexe@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🚀Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/mike_kub" target="blank"><img align="center" src="https://www.svgrepo.com/show/271091/telegram.svg" alt="Uzgur" height="30" width="40" /></a>
 <a href="https://instagram.com/db404page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Uzgur" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mikebillcyrus" target="blank"><img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="Uzgur" height="30" width="40" /></a>
-<a href="https://t.me/mike_kub" target="blank"><img align="center" src="https://www.svgrepo.com/show/271091/telegram.svg" alt="Uzgur" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/691952126821269515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Uzgur" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/uzgur-abdullaev-9bb50b239/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Uzgur" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🏅Languages and Tools:</h3>
 <p align="left">  
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
@@ -43,4 +43,14 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/ru/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="vuejs" width="40" height="40"/> </a>
+<h3 align="left">🖥️ Workspace Setup:</h3>
+<p align="left">
+  <img src="https://myozzy.me/github/intel.jpg" alt="vuejs" width="135" min-height="30"/>
+  <img src="https://myozzy.me/github/corei510th.jpg" alt="vuejs" width="135" min-height="30"/>
+  <img src="https://myozzy.me/github/nvidia.jpg" alt="vuejs" width="135" min-height="30"/>
+  <img src="https://myozzy.me/github/1650ti.jpg" alt="vuejs" width="135" min-height="30"/>
+  <img src="https://myozzy.me/github/windows11.jpg" alt="vuejs" width="135" min-height="30"/>
+  <img src="https://myozzy.me/github/ubuntu.jpg" alt="vuejs" width="135" min-height="30"/>
+  <img src="https://myozzy.me/github/vscode.jpg" alt="vuejs" width="135" min-height="30"/>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PosledniyRubej&label=Profile%20views&color=0e75b6&style=flat" alt="Uzgur" /> </p>
