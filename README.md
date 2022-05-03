@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/mikebillcyrus" target="blank"><img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="Uzgur" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/uzgur-abdullaev-9bb50b239/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Uzgur" height="30" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~014584a65342f3eab2" target="blank"><img align="center" src="https://www.svgrepo.com/show/349549/upwork.svg" alt="Uzgur" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/691952126821269515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Uzgur" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/691952126821269515" target="blank"><img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="Uzgur" height="30" width="40" /></a>
 
 </p>
 
