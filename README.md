@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uzgur Abdullaev</h1>
+<img align="center" src="https://myozzy.me/headerphoto.png" alt="Uzgur" height="1200" width="200" />
 <h3 align="center">Web Developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=CF18F7&center=true&width=1200&height=150&lines=I'm+Web+Developer;And+Targetologist)](https://git.io/typing-svg)
@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/db404page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Uzgur" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="Uzgur" height="30" width="40" /></a>
 <a href="https://t.me/mike_kub" target="blank"><img align="center" src="https://www.svgrepo.com/show/271091/telegram.svg" alt="Uzgur" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/691952126821269515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Uzgur" height="30" width="40" /></a>
 </p>
