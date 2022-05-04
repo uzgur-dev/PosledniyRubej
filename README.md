@@ -48,6 +48,8 @@
 <a href="https://www.adobe.com/ru/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
+<br>
+
 <h3 align="left">🖥️ Workspace Setup:</h3>
 <p align="left">
   <img src="https://myozzy.me/github/intel.jpg" alt="vuejs" width="135" min-height="30"/>
