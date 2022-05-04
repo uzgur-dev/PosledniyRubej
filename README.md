@@ -20,6 +20,7 @@
 <a href="https://stackoverflow.com/users/19020746/uzgur" target="blank"><img align="center" src="https://www.svgrepo.com/show/349517/stackoverflow.svg" alt="Uzgur" height="30" width="40" /></a>
 <a href="mailto:kanalrexe@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Uzgur" height="30" width="40" /></a>
 </p>
+<br>
 
 <h3 align="left">🏅Languages and Tools:</h3>
 <p align="left">  
