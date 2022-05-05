@@ -61,4 +61,4 @@
   <img src="https://myozzy.me/github/ubuntu.jpg" alt="vuejs" width="135" min-height="30"/>
   <img src="https://myozzy.me/github/vscode.jpg" alt="vuejs" width="135" min-height="30"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PosledniyRubej&label=Profile%20views&color=0e75b6&style=flat" alt="Uzgur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PosledniyRubej&label=Profile%20views&color=0e75b6&style=flat" /> </p>
