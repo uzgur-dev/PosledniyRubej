@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=CF18F7&center=true&width=1200&height=150&lines=I'm+Web+Developer;And+Targetologist)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [OPENSHOP.UZ](openshop.uz)
+- 🔭 I’m currently working on [OPENSHOP.UZ](https://openshop.uz)
 
 - 👨‍💻 All of my projects are available at [myozzy.me](https://myozzy.me)
 
