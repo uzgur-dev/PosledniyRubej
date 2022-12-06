@@ -10,17 +10,15 @@
 - 📫 How to reach me **kanalrexe@gmail.com**
 <br>
 
-<h3 align="left">🚀Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/mike_kub" target="blank"><img align="center" src="https://www.svgrepo.com/show/271091/telegram.svg" alt="Uzgur" height="30" width="40" /></a>
-<a href="https://instagram.com/db404page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Uzgur" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mikebillcyrus" target="blank"><img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="Uzgur" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/uzgur-abdullaev-9bb50b239/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Uzgur" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~014584a65342f3eab2" target="blank"><img align="center" src="https://www.svgrepo.com/show/349549/upwork.svg" alt="Uzgur" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/691952126821269515" target="blank"><img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="Uzgur" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19020746/uzgur" target="blank"><img align="center" src="https://www.svgrepo.com/show/349517/stackoverflow.svg" alt="Uzgur" height="30" width="40" /></a>
-<a href="mailto:kanalrexe@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Uzgur" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+<div align="center"> 
+ <a href="https://instagram.com/uzsoftic"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+ <a href="https://facebook.com/uzsoftic"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+ <a href="https://twitter.com/uzsoftic"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
+ <a href="https://stackoverflow.com/users/13259801"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
+ <a href="https://linkedin.com/in/uzsoftic"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+ <a href="https://behance.net/uzsoftic"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
+</div>
 <br>
 
 <h3 align="left">🏅Languages and Tools:</h3>
