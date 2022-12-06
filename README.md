@@ -1,4 +1,4 @@
-<img align="center" src="https://myozzy.me/github/UzgurHeaderPhoto.png" alt="Uzgur" min-height="200" width="1200" />
+
 <h3 align="center">Web Developer | Targetologist</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=CF18F7&center=true&width=1200&height=150&lines=I'm+Web+Developer;And+Targetologist)](#)
@@ -61,8 +61,6 @@
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=PosledniyRubej&theme=onestar&no-frame=true&no-bg=false&margin-w=5&column=7">
 </div>
-<div align="center"> 
- <img alt="github contribution snake animation" src="github-contribution-grid-snake.svg">
-</div>
 
+## 📊 GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PosledniyRubej&label=Profile%20views&color=0e75b6&style=flat" /> </p>
