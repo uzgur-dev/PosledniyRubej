@@ -61,9 +61,13 @@
   <img src="https://myozzy.me/github/ubuntu.jpg" alt="vuejs" width="135" min-height="30"/>
   <img src="https://myozzy.me/github/vscode.jpg" alt="vuejs" width="135" min-height="30"/>
 </p>
-<p align="center"> 
+ 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=PosledniyRubej" alt="PosledniyRubej" />
-    </a> 
-</p>
+
+     
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=PosledniyRubej&theme=onestar&no-frame=true&no-bg=false&margin-w=5&column=7">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PosledniyRubej&label=Profile%20views&color=0e75b6&style=flat" /> </p>
