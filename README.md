@@ -64,3 +64,4 @@
 
 ## 📊 GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PosledniyRubej&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p><img src="https://visitcount.itsvg.in/api?id=uzsoftic&icon=1&color=0"/></p>
