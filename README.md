@@ -12,12 +12,11 @@
 
 ## 🌐 Socials:
 <div align="center"> 
- <a href="https://instagram.com/uzsoftic"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
- <a href="https://facebook.com/uzsoftic"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+ <a href="https://instagram.com/db404page"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+ <a href="https://facebook.com//mikebillcyrus"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
  <a href="https://twitter.com/uzsoftic"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
- <a href="https://stackoverflow.com/users/13259801"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
- <a href="https://linkedin.com/in/uzsoftic"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
- <a href="https://behance.net/uzsoftic"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
+ <a href="https://stackoverflow.com/19020746/uzgur"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
+ <a href="https://linkedin.com/in/uzgur-abdullaev-9bb50b239"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 </div>
 <br>
 
