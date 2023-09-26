@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [OPENSHOP.UZ](https://openshop.uz)
 
-- 👨‍💻 All of my projects are available at [myozzy.me](https://myozzy.me)
-
 - 📫 How to reach me **kanalrexe@gmail.com**
 <br>
 
